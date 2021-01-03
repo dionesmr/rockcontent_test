@@ -1,0 +1,90 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rock Content GDPR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-02 04:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: rock-content-gdpr"
+
+#. Label of checkbuttom
+msgid "Activated"
+msgstr ""
+
+#. Position of display box on website
+msgid "Bottom"
+msgstr ""
+
+#. Label of button text
+msgid "Button"
+msgstr ""
+
+#. Description of page plugin
+msgid "Change your cookie box settings below."
+msgstr ""
+
+#. Description of position select
+msgid "Choose beetween themes"
+msgstr ""
+
+#. Label of description message box
+msgid "Choose the box message"
+msgstr ""
+
+#. Author of the plugin
+msgid "Diones Ramos"
+msgstr ""
+
+#. Label of display message select
+msgid "Display message position"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/diones-menqui-6a0616128/"
+msgstr ""
+
+#. Label of description button text
+msgid "Label text"
+msgstr ""
+
+#. Label of message box
+msgid "Message"
+msgstr ""
+
+#. Label of position select
+msgid "Position"
+msgstr ""
+
+#. Name of the plugin
+msgid "Rock Content GDPR"
+msgstr ""
+
+#. Page of plugin
+msgid "Settings"
+msgstr ""
+
+#. Placeholder of button text
+msgid "Standard"
+msgstr ""
+
+#. Description of the plugin
+msgid "Teste Técnico Desenvolvedor Wordpress"
+msgstr ""
+
+#. Label of theme select
+msgid "Theme"
+msgstr ""
+
+#. Position of display box on website
+msgid "Top"
+msgstr ""

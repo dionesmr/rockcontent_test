@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-02 05:12+0000\n"
+"PO-Revision-Date: 2021-01-02 05:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Label of checkbuttom
+msgid "Activated"
+msgstr "Ativado"
+
+#. Position of display box on website
+msgid "Bottom"
+msgstr "Inferior"
+
+#. Label of button text
+msgid "Button"
+msgstr "Botão"
+
+#. Description of page plugin
+msgid "Change your cookie box settings below."
+msgstr "Altere suas configurações de cookies abaixo"
+
+#. Description of position select
+msgid "Choose beetween themes"
+msgstr "Escolha entre os temas"
+
+#. Label of description message box
+msgid "Choose the box message"
+msgstr "Mude a mensagem da caixa"
+
+#. Author of the plugin
+msgid "Diones Ramos"
+msgstr "Diones Ramos"
+
+#. Label of display message select
+msgid "Display message position"
+msgstr "Posição da mensagem no site"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/diones-menqui-6a0616128/"
+msgstr "https://www.linkedin.com/in/diones-menqui-6a0616128/"
+
+#. Label of description button text
+msgid "Label text"
+msgstr "Label"
+
+#. Label of message box
+msgid "Message"
+msgstr "Mensagem"
+
+#. Label of position select
+msgid "Position"
+msgstr "Posição"
+
+#. Name of the plugin
+msgid "Rock Content GDPR"
+msgstr "Rock Content GDPR"
+
+#. Page of plugin
+msgid "Settings"
+msgstr "Configurações"
+
+#. Placeholder of button text
+msgid "Standard"
+msgstr "Padrão"
+
+#. Description of the plugin
+msgid "Teste Técnico Desenvolvedor Wordpress"
+msgstr "Teste Técnico Desenvolvedor Wordpress"
+
+#. Label of theme select
+msgid "Theme"
+msgstr "Tema"
+
+#. Position of display box on website
+msgid "Top"
+msgstr "Superior"

@@ -1,0 +1,14 @@
+.rc_gdpr_form{
+    background-color: white;
+    border: 1px solid #e2e2e2;
+    padding-left: 20px;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+.rc_gdpr_h2 {
+    font-weight: 600 !important;
+    border-bottom: 1px solid #e3e3e3;
+}
+#wp-rc_gdpr_message-wrap {
+    max-width: 800px;
+}
